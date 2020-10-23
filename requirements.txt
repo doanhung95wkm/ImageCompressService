@@ -1,0 +1,4 @@
+google-cloud-storage
+flask
+pillow
+requests
